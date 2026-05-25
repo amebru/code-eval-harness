@@ -1,7 +1,7 @@
 # code-eval-harness [POC]
-A small, opinionated Python framework that runs a battery of code-generation prompts across multiple LLMs (OpenAI, Anthropic, an open-weight model via Ollama or vLLM), scores outputs along correctness and complexity, and produces a comparison report.
+A Python framework that runs a battery of code-generation prompts across LLMs (OpenAI, Anthropic, an open-weight model via Ollama or vLLM), scores outputs along correctness and complexity, and produces a comparison report.
 
-Working POC but not meant to be used as-is.
+Working POC, not meant to be used as-is.
 
 ## usage
 
